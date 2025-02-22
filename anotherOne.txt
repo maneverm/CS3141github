@@ -1,1 +1,2 @@
 This is another text file, and it has no true meaning
+This is a second line, and it also has no true meaning
